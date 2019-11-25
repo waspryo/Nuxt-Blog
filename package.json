@@ -1,0 +1,19 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "My brilliant Nuxt.js project",
+  "author": "waspryo",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@tryghost/content-api": "^1.3.4",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
